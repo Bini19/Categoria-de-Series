@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.AssemblyInfo.cs
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.exe
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.deps.json
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.runtimeconfig.json
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.dll
+C:\Users\Dev\source\repos\Cadastro em Série\bin\Debug\netcoreapp3.1\Cadastro de Serie.pdb
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.dll
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.pdb
+C:\Users\Dev\source\repos\Cadastro em Série\obj\Debug\netcoreapp3.1\Cadastro de Serie.genruntimeconfig.cache

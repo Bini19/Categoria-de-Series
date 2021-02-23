@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cadastro de Serie/1.0.0": {
+        "runtime": {
+          "Cadastro de Serie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro de Serie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
